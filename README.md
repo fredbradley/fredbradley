@@ -17,6 +17,9 @@ And some I'm doing less well in updating regularly
 * [fredbradley/imcapi](https://github.com/fredbradley/imcapi)
 * [fredbradley/socs-php](https://github.com/fredbradley/socs-php)
 
+Of course there are some side projects that I haven't had the time to invest into yet
+* [fredbradley/thankyou](https://github.com/fredbradley/thankyou) - [View explainer](https://thankyou.fredbradley.media)
+
 ## Some fun I've had recently
 * Wordle Spin offs for [Radio](https://wordle.demofactor.com) and for [Cranleigh School](https://wordle.cranleigh.org)
 
