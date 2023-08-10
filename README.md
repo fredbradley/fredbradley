@@ -7,7 +7,6 @@
 * [spkm/isams](https://github.com/cranleighschool/isams-php)
 * [fredbradley/laravel-rule-nhs-number](https://github.com/fredbradley/laravel-rule-nhs-number)
 * [@fredbradley/tfl-colours](https://github.com/fredbradley/tfl-colours) (NPM Package)
-* [Nagios WordPress Updates Checker](https://github.com/fredbradley/nagios-wordpress-updates-checker) (WP Plugin)
 * [fredbradley/socs-calendar-ics-parser](https://github.com/fredbradley/socs-calendar-ics-parser)
 * [fredbradley/trailingslashit](https://packagist.org/packages/fredbradley/trailingslashit)
 
@@ -19,6 +18,9 @@ And some I'm doing less well in updating regularly
 
 Of course there are some side projects that I haven't had the time to invest into yet
 * [fredbradley/thankyou](https://github.com/fredbradley/thankyou) - [View explainer](https://thankyou.fredbradley.media)
+
+Finally there's some old project which have been archived off
+* [Nagios WordPress Updates Checker](https://github.com/fredbradley/nagios-wordpress-updates-checker) (WP Plugin)
 
 ## Some fun I've had recently
 * Wordle Spin offs for [Radio](https://wordle.demofactor.com) and for [Cranleigh School](https://wordle.cranleigh.org)
